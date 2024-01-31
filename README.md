@@ -5,7 +5,7 @@
 
 ## Syllabus
 
-- [**Week 1:**](https://github.com/sizovk/blockchain-hse/tree/master/week-1) Introduction to course
+- [**Week 1:**](https://github.com/sizovk/blockchain-hse/tree/main/week-1) Introduction to course
     - Lecture: Blockchain basics, crypto wallets
     - Seminar: Elliptic Curve Cryptography
 
