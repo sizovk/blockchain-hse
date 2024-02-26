@@ -11,7 +11,12 @@
 - [**Week 2:**](https://github.com/sizovk/blockchain-hse/tree/main/week-2) Bitcoin
     - Lecture: Bitcoin under the hood
     - Seminar: Implementing Bitcoin from scratch
-
+- [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/main/week-3) Consensus algorithms
+    - Lecture: Consensus algorithms
+    - Seminar: Implementing Bitcoin from scratch (pt 2)
+- [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/main/week-4) Smart contracts
+    - Lecture: EVM & Smart Contracts
+    - Seminar: Interaction with blockchain
 
 ## Course staff
 
