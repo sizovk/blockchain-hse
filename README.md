@@ -15,8 +15,14 @@
     - Lecture: Consensus algorithms
     - Seminar: Implementing Bitcoin from scratch (pt 2)
 - [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/main/week-4) Smart contracts
-    - Lecture: EVM & Smart Contracts
-    - Seminar: Interaction with blockchain
+    - Lecture: EVM & Solidity
+    - Seminar: Interaction with blockchain, Foundry
+- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/main/week-5) Smart contracts deeper
+    - Lecture: DeFi design patterns
+    - Seminar: Solving CTF tasks
+- [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/main/week-6) DEX
+    - Lecture: DEX overview
+    - Seminar: Implementing simple AMM
 
 ## Course staff
 
