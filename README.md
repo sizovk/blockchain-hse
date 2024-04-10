@@ -23,6 +23,12 @@
 - [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/main/week-6) DEX
     - Lecture: DEX overview
     - Seminar: Implementing simple AMM
+- [**Week 7:**](https://github.com/sizovk/blockchain-hse/tree/main/week-7) Lending
+    - Lecture: Lending overview
+    - Seminar: Implementing simple lending
+- [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/main/week-8) Bridges & L2
+    - Lecture: Cross-chain & Layer 2 solutions
+    - Seminar: Solving CTF tasks
 
 ## Course staff
 
