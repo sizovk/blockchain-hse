@@ -11,6 +11,9 @@
 - [**Week 2:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-2) Bitcoin
     - Lecture: Bitcoin under the hood
     - Seminar: Elliptic Curve Cryptography (pt 2)
+- [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-3) Bitcoin
+    - Lecture: Consensus algorithms
+    - Seminar: Gasper
 
 ## Course staff
 
