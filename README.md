@@ -17,6 +17,9 @@
 - [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-4) Smart contracts
     - Lecture: EVM, Solidity
     - Seminar: Interaction with blockchain, Foundry
+- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/main/week-5) Smart contracts deeper
+    - Lecture: DeFi design patterns
+    - Seminar: Solving CTF tasks
 
 ## Course staff
 
