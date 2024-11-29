@@ -26,7 +26,7 @@
 - [**Week 7:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-7) Lending
     - Lecture: Lending overview
     - Seminar: Implementing simple Lending protocol
-- [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-8) Staking
+- [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-8) Staking
     - Lecture: Staking / restaking overview
     - Seminar: Deep dive into Lido and Symbiotic
 
