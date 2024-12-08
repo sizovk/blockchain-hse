@@ -29,6 +29,9 @@
 - [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-8) Staking
     - Lecture: Staking / restaking overview
     - Seminar: Deep dive into Lido and Symbiotic
+- [**Week 9:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-9) Bridges & L2
+    - Lecture: Cross-chain & Layer 2 solutions
+    - Seminar: Projects presentations
 
 ## Course staff
 
