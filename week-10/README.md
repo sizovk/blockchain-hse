@@ -1,3 +1,3 @@
-# Week 9
+# Week 10
 
 - [Lecture slides](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-10/slides.pdf)
