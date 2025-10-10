@@ -11,6 +11,9 @@
 - [**Week 2:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-2) Bitcoin
     - Lecture: Bitcoin under the hood
     - Seminar: Implementing Bitcoin from scratch
+- [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-3) Consensus algorithms
+    - Lecture: Paxos, pBFT, PoW, Gasper
+    - Seminar: Implementing Bitcoin from scratch (pt 2)
 
 ## Course staff
 
