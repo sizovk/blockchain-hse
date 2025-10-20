@@ -14,10 +14,10 @@
 - [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-3) Consensus algorithms
     - Lecture: Paxos, pBFT, PoW, Gasper
     - Seminar: Implementing Bitcoin from scratch (pt 2)
-- [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-4) Smart contracts
+- [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-4) Smart contracts
     - Lecture: EVM, Solidity
     - Seminar: Interaction with blockchain, Foundry
-- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/2024-2025/week-4) Smart contracts deeper
+- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-4) Smart contracts deeper
     - Lecture: DeFi design patterns
     - Seminar: Solving CTF tasks
 
