@@ -20,6 +20,15 @@
 - [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-4) Smart contracts deeper
     - Lecture: DeFi design patterns
     - Seminar: Solving CTF tasks
+- [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-6) DEX
+    - Lecture: DEX overview
+    - Seminar: Implementing simple AMM
+- [**Week 7:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-7) Lending
+    - Lecture: Lending overview
+    - Seminar: Implementing simple Lending protocol
+- [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-8) Staking
+    - Lecture: Staking / restaking overview
+    - Seminar: Implementing simple staking protocol
 
 
 ## Course staff
