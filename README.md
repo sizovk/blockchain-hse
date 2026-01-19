@@ -29,6 +29,11 @@
 - [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-8) Staking
     - Lecture: Staking / restaking overview
     - Seminar: Implementing simple staking protocol
+- [**Week 9:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-9) Bridges & L2
+    - Lecture: Cross-chain & Layer 2 solutions
+    - Seminar: Projects presentations
+- [**Week 10:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-10) Zero Knowledge
+    - Lecture: ZK intro & Groth16
 
 
 ## Course staff
