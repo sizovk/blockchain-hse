@@ -5,38 +5,17 @@
 
 ## Syllabus
 
-- [**Week 1:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-1) Introduction to course
+- [**Week 1:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-1) Introduction to course
     - Lecture: Blockchain basics, crypto wallets
     - Seminar: Elliptic Curve Cryptography
-- [**Week 2:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-2) Bitcoin
+- [**Week 2:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-2) Bitcoin
     - Lecture: Bitcoin under the hood
     - Seminar: Implementing Bitcoin from scratch
-- [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-3) Consensus algorithms
-    - Lecture: Paxos, pBFT, PoW, Gasper
-    - Seminar: Implementing Bitcoin from scratch (pt 2)
-- [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-4) Smart contracts
-    - Lecture: EVM, Solidity
-    - Seminar: Interaction with blockchain, Foundry
-- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-4) Smart contracts deeper
-    - Lecture: DeFi design patterns
-    - Seminar: Solving CTF tasks
-- [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-6) DEX
-    - Lecture: DEX overview
-    - Seminar: Implementing simple AMM
-- [**Week 7:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-7) Lending
-    - Lecture: Lending overview
-    - Seminar: Implementing simple Lending protocol
-- [**Week 8:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-8) Staking
-    - Lecture: Staking / restaking overview
-    - Seminar: Implementing simple staking protocol
-- [**Week 9:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-9) Bridges & L2
-    - Lecture: Cross-chain & Layer 2 solutions
-    - Seminar: Projects presentations
-- [**Week 10:**](https://github.com/sizovk/blockchain-hse/tree/2025-2026/week-10) Zero Knowledge
-    - Lecture: ZK intro & Groth16
+
 
 
 ## Course staff
 
 - [Kirill Sizov](https://t.me/kirillsizov)
 - [Ilya Sizov](https://t.me/sizovjr)
+- [Dan Kotlyarov](https://t.me/dan_working)
