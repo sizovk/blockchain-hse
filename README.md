@@ -14,7 +14,9 @@
 - [**Week 3:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-3) Consensus algorithms
     - Lecture: Paxos, pBFT, PoW
     - Seminar: Gasper
-
+- [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-4) Smart contracts
+    - Lecture: EVM, Solidity
+    - Seminar: Interaction with blockchain, Foundry
 
 ## Course staff
 
