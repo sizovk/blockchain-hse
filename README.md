@@ -17,6 +17,15 @@
 - [**Week 4:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-4) Smart contracts
     - Lecture: EVM, Solidity
     - Seminar: Interaction with blockchain, Foundry
+- [**Week 5:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-5) Smart contracts deeper
+    - Lecture: DeFi design patterns
+    - Seminar: Solving CTF tasks
+- [**Week 6:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-6) DEX
+    - Lecture: DEX overview
+    - Seminar: Implementing simple AMM
+- [**Week 7:**](https://github.com/sizovk/blockchain-hse/tree/2026-2027/week-7) Lending
+    - Lecture: Lending overview
+    - Seminar: Implementing simple Lending protocol
 
 ## Course staff
 
